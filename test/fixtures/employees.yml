@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee_name: MyString
+  department: MyString
+  position: MyString
+  location: MyString
+  salary: 9.99
+
+two:
+  employee_name: MyString
+  department: MyString
+  position: MyString
+  location: MyString
+  salary: 9.99

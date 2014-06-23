@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account_head: MyString
+  debit: 9.99
+  credit: 9.99
+
+two:
+  account_head: MyString
+  debit: 9.99
+  credit: 9.99
